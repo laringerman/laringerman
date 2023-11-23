@@ -1,6 +1,6 @@
 ### Hello there!
 
-<p> <a href="https://www.linkedin.com/in/german-larin-205538182/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://t.me/GermanLarin"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" height=25></a>  </p>
+<p> <a href="https://www.linkedin.com/in/german-larin-205538182/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://t.me/GermanLarin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a>  </p>
 
 
 
@@ -10,5 +10,9 @@
 
 ### Ключевые навыки
 `Python` `Pandas` `NumPy` `Seaborn` `matplotlib` `Plotly` `Pyplot` `SQL` `Tableau` `Git` `Математическая статистика` `Статистический анализ` `A/B тесты` `MS Excel`
+
+### Мое портфолио
+<p> <a href="https://github.com/laringerman/portfolio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25></a> </p>
+
 
 
